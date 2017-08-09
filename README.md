@@ -43,3 +43,7 @@ I have tried and run a small batch and everything was fine, however with kicad g
 From this [Hackaday post](http://hackaday.com/2017/06/21/panelizing-boards-the-easy-way/) "Gerber Panelizer is not without significant issues, although some of the blame can be directed at KiCad. The KiCad philosophy makes a distinction between milled, plated layers and the final cutout of the board. In KiCad, this means there’s a difference between .GKO and .GML Gerber files. KiCad, in its infinite wisdom, decided the cutout layer of the board should use the file extension .GM1 as an output Gerber." So change GM1 for GKO.
 
 I recommend to arrange the boards so the usb part always have a clean cut without tabs.
+
+Test run pics from FIRSTPCB
+
+![PCB from FIRSTPCB](hardware/u2f-sterling-panelized/FIRSTPCB_batch.img/img.jpg?raw=true "PCB panelized batch")
