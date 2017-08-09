@@ -46,4 +46,4 @@ I recommend to arrange the boards so the usb part always have a clean cut withou
 
 Test run pics from FIRSTPCB
 
-![PCB from FIRSTPCB](hardware/u2f-sterling-panelized/FIRSTPCB_batch.img/img.jpg?raw=true "PCB panelized batch")
+![PCB from FIRSTPCB](hardware/u2f-sterling-panelized/FIRSTPCB_batch.jpg "PCB panelized batch")
